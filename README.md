@@ -10,36 +10,25 @@
 
 ## Movement
 Key | Movement
-
+----|---------
 W | Forward
-
 A | Rotate Left
-
 S | Backwards
-
 D | Rotate Right
-
 Space | Fire Gun
 
 
 ## Camera
 
 Key | Movement
-
+----|---------
 Up | Forward
-
 Down | Back
-
 Right | Right
-
 Left | Left
-
 Shift + Up | Up
-
 Shift + Down | Down
-
 Shift + Right | Look Up
-
 Shift + Left  | Look Down
 
 ## Notes
